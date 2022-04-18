@@ -2,4 +2,5 @@
 
 ### Another Class Project:
 
-https://github.com/ducnguyenedu/smartcontract-blockchainclass-project-2
+[Project 2](https://github.com/Sotatek-DucNguyen6/smartcontract-blockchainclass-project-2)
+
